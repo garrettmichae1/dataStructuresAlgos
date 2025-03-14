@@ -1,4 +1,4 @@
-package csci2010.adjacencymatrixdemo;
+package csci2010.adjacencylistdemo;
 
 /**
  *
@@ -8,8 +8,7 @@ public class Node {
     
     char data;
     
-    Node(char  data){
-          this.data = data;
+    Node(char data){
+        this.data = data;
     }
-    
 }
